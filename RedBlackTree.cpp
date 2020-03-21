@@ -29,5 +29,5 @@ int RedBlackTree::size() const { return currentSize; }
 // insert data if tree does not contain parameter, no duplicates
 bool insert(int num)
 {
-
+	
 } 
